@@ -6,7 +6,7 @@ export const Socials = () => {
     return [
       {
         name: "Twitter",
-        url: "https://twitter.com/Venom_Analytics",
+        url: "https://twitter.com/redoubt_web3",
         icon: <TwitterIcon />,
       },
       {
